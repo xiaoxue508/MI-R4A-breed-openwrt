@@ -25,8 +25,8 @@ env:
   FEEDS_CONF: MI-R4A/R4A.conf.default
   CONFIG_FILE: MI-R4A/R4A.config
   DIY_P1_SH: MI-R4A/diy-part1.sh
-  DIY_P2_SH: MI-R4A/R4A.sh
-  DIY_P3_SH: MI-R4A/diy-part3.sh
+  #DIY_P2_SH: MI-R4A/R4A.sh
+  #DIY_P3_SH: MI-R4A/diy-part3.sh
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: true
